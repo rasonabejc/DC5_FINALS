@@ -1,0 +1,15 @@
+{
+    "name": "dubla/semifinals",
+    "autoload": {
+        "psr-4": {
+            "Dubla\\Semifinals\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rasonabejc",
+            "email": "johncarlorasonabe0@gmail.com"
+        }
+    ],
+    "require": {}
+}
